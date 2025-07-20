@@ -1,26 +1,42 @@
-<p align="center"><img src= "https://cdn.tobebetterjavaer.com/stutymore/pmhub_%E7%AE%80%E4%BB%8B%E7%89%88.png" alt="MaxKB" width="300" /></p>
+[//]: # (<p align="center"><img src= "https://cdn.tobebetterjavaer.com/stutymore/pmhub_%E7%AE%80%E4%BB%8B%E7%89%88.png" alt="MaxKB" width="300" /></p>)
 <h3 align="center">PmHub，一个基于 SpringCloud & LLM 的智能项目管理系统</h3>
-<p align="center">
-  <a href="https://opensource.org/license/MIT"><img src="https://img.shields.io/github/license/laigeoffer/pmhub?color=rgb(25%2C%20121%2C%20255)" alt="The MIT License"></a>
-  <a href=""><img src="https://img.shields.io/github/forks/laigeoffer/pmhub?color=green" alt="Forks"></a>
-  <a href="https://laigeoffer.cn/"><img src="https://img.shields.io/badge/PmHub-%E5%AE%98%E7%BD%91-green" alt="Official"></a>
-  <a href="https://github.com/laigeoffer/pmhub"><img src="https://img.shields.io/github/stars/laigeoffer/pmhub?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>    
-  <a href="https://pmhub.laigeoffer.cn/"><img src="https://img.shields.io/badge/PmHub-%E4%BD%93%E9%AA%8C%E5%9C%B0%E5%9D%80-blue" alt="Experience"></a>  
-</p>
+
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="https://opensource.org/license/MIT"><img src="https://img.shields.io/github/license/laigeoffer/pmhub?color=rgb&#40;25%2C%20121%2C%20255&#41;" alt="The MIT License"></a>)
+
+[//]: # (  <a href=""><img src="https://img.shields.io/github/forks/laigeoffer/pmhub?color=green" alt="Forks"></a>)
+
+[//]: # (  <a href="https://laigeoffer.cn/"><img src="https://img.shields.io/badge/PmHub-%E5%AE%98%E7%BD%91-green" alt="Official"></a>)
+
+[//]: # (  <a href="https://github.com/laigeoffer/pmhub"><img src="https://img.shields.io/github/stars/laigeoffer/pmhub?style=flat-square&color=rgb&#40;25%2C%20121%2C%20255&#41;" alt="Stars"></a>    )
+
+[//]: # (  <a href="https://pmhub.laigeoffer.cn/"><img src="https://img.shields.io/badge/PmHub-%E4%BD%93%E9%AA%8C%E5%9C%B0%E5%9D%80-blue" alt="Experience"></a>  )
+
+[//]: # (</p>)
 
 <hr/>
-PmHub 是一套基于 SpringCloud & LLM 的微服务智能项目管理系统，这个项目旨在帮助小伙伴们快速掌握微服务/分布式项目的架构设计和开发流程，如果想在校招或者社招中拿到一个满意的 offer，PmHub 将是一个非常 nice 的选择。
+PmHub 是一套基于 SpringCloud & LLM 的微服务智能项目管理系统。
 
-## 项目亮点
+[//]: # ()
+[//]: # (## 项目亮点)
 
-- **热门技术**：采用时下企业最热门的技术框架，如 SpringCloud-Gateway、Nacos、Sentinel 等，主打一个硬核，与真实的企业项目接轨。
-- **单体与微服务**：提供单体和微服务两个版本，完美照顾零基础和需要进阶的同学，带大家体验从单体到微服务架构的改造全过程，并深入理解两种架构的优缺点。
-- **硬核面试题**：我们将结合付费球友的实际面试体验，为大家提供可以真正吊打面试官的真是面试场景和题目，并提供 1v1 的简历修改服务，主打一个投了就有、面了就拿 offer 的快乐体感。
-- **代码质量**：由蚂蚁金服工作过的技术专家苍何亲自下场，严格遵循代码规范和最佳实践，帮大家养成优雅的代码编写习惯。
-- **持续集成**：提供持续集成和持续部署的完整配置，带你从 0-1 用 Docker 上线 生产环境级别的真实项目。
-- **产品设计**：[提供完整的产品设计文档](https://lanhuapp.com/link/#/invite?sid=qxZji4oa)，包括产品需求、产品架构、产品原型等，这是别的项目不曾给你的，但工作后又不可或缺的能力。
-- **企业工作流**：提供企业级的工作流系统，代码完全开源，你可以在此基础上进行二开，为公司节省巨额的研发成本，从而升职加薪。
+[//]: # ()
+[//]: # (- **热门技术**：采用时下企业最热门的技术框架，如 SpringCloud-Gateway、Nacos、Sentinel 等，主打一个硬核，与真实的企业项目接轨。)
 
+[//]: # (- **单体与微服务**：提供单体和微服务两个版本，完美照顾零基础和需要进阶的同学，带大家体验从单体到微服务架构的改造全过程，并深入理解两种架构的优缺点。)
+
+[//]: # (- **硬核面试题**：我们将结合付费球友的实际面试体验，为大家提供可以真正吊打面试官的真是面试场景和题目，并提供 1v1 的简历修改服务，主打一个投了就有、面了就拿 offer 的快乐体感。)
+
+[//]: # (- **代码质量**：由蚂蚁金服工作过的技术专家苍何亲自下场，严格遵循代码规范和最佳实践，帮大家养成优雅的代码编写习惯。)
+
+[//]: # (- **持续集成**：提供持续集成和持续部署的完整配置，带你从 0-1 用 Docker 上线 生产环境级别的真实项目。)
+
+[//]: # (- **产品设计**：[提供完整的产品设计文档]&#40;https://lanhuapp.com/link/#/invite?sid=qxZji4oa&#41;，包括产品需求、产品架构、产品原型等，这是别的项目不曾给你的，但工作后又不可或缺的能力。)
+
+[//]: # (- **企业工作流**：提供企业级的工作流系统，代码完全开源，你可以在此基础上进行二开，为公司节省巨额的研发成本，从而升职加薪。)
+
+[//]: # ()
 
 ## 一、项目简介
 
@@ -29,48 +45,20 @@ PmHub 包括认证、流程、项目管理、用户、网关等服务。包含�
 并且同时 PmHub 也是一套企业工作流的开发框架，您可以根据自身需求，快速定制出适合自己公司的企业工作流系统。
 
 
-
->如果对开源项目感兴趣，可以关注来个 offer 的另外一个实战项目：技术派，一个前后端分离的社区项目。[GitHub](https://github.com/itwanger/paicoding) 上已经星标 1.5k+，不少同学就是靠这个项目在往年的校招中拿到了不错的 offer。
-
-
-为了方便大家循序渐进式的学习，我们已经推出两个版本：
-
+我已经推出两个版本：
 - 单体架构版本：适合初学者，直接运行 pmhub-boot 模块下的 pmhub-admin 中的 PmhubApplication 类即可。
 - 微服务架构版本：适合有一定基础，想进阶学习微服务/分布式的同学，可以分别启动网关、认证、流程、项目管理、代码生成等多个服务。
 
-可以根据自己的实际情况选择合适的版本进行学习，我们将会倾其所有，在第一时间帮助大家解决所有学习过程遇到的问题，让你的学习曲线变得非常丝滑😁。
-
-* 项目文档教程：https://laigeoffer.cn/
-* 在线体验地址：https://pmhub.laigeoffer.cn/
-
 ![pmhub-业务架构图](https://cdn.tobebetterjavaer.com/stutymore/laigeoffer-pmhub-%E4%B8%9A%E5%8A%A1%E5%A4%A7%E5%9B%BE.png)
 
-此为 PmHub 微服务版本说明文档！单体版本说明文档请移步：[单体版本说明](https://github.com/laigeoffer/pmhub/blob/master/pmhub-boot/README.md)
-
-
-## 二、关于来个 offer 组织
-
-来个 offer 组织由二哥发起，苍何主理，旨在帮助同学们在校招、社招中拿到满意的 offer。
-
-- 二哥，原创公众号“沉默王二”累计 18 万+ 读者，GitHub 星标 11000+ 开源知识库《二哥的 Java 进阶之路》作者，帮助很多很多同学成功拿到满意的 offer。
-- 苍何，原创公众号“苍何”作者，CSDN 博客专家，阿里云专家博主，GitHub 开发者计划成员，前大厂技术专家，技术、管理、面试经验丰富。
-
-加入[PmHub官方编程星球](https://laigeoffer.cn/zsxq/)后，即可解锁来个 offer 组织下的所有项目的付费文档及产品原型，以及 1 对 1 的技术面试辅导服务。
-
-
-项目|码云|GitHub|简介
----|---|---|---
-PmHub| [Gitee](https://gitee.com/laigeoffer/pmhub) | [GitHub](https://github.com/laigeoffer/pmhub) | 一套智能项目管理系统，即将帮助不少同学在接下来的校招/社招中斩获满意 offer。
-技术派| [Gitee](https://gitee.com/itwanger/paicoding) | [GitHub](https://github.com/itwanger/paicoding) | 一个前后端分离的社区项目，帮助过不少同学在秋招中斩获满意 offer。
-
-## 三、项目详情
-### 3.1、技术架构
+## 二、项目详情
+### 2.1、技术架构
 
 下面这张系统架构图可以帮助大家快速了解 PmHub 项目的系统架构，从前端到网关、从服务应用到基础服务组件、从存储技术到运维部署，可以说是一目了然。
 
 ![pmhub-系统架构图](https://cdn.tobebetterjavaer.com/stutymore/01.什么是PmHub-20240708113736.png)
 
-下面这张架构选型图可以帮助大家快速了解 PmHub 项目的技术选型，以及在[官方手册](https://laigeoffer.cn/pmhub/tech-architecture/)中会更详细的说明我们为什么选择该技术，毕竟授人以鱼不如授人以渔嘛。
+下面这张架构选型图可以帮助大家快速了解 PmHub 项目的技术选型
 
 ![pmhub-架构选型](https://cdn.tobebetterjavaer.com/stutymore/PmHub%E6%9E%B6%E6%9E%84%E9%80%89%E5%9E%8B.png)
 
@@ -80,21 +68,10 @@ PmHub| [Gitee](https://gitee.com/laigeoffer/pmhub) | [GitHub](https://github.com
 
 优质的项目，离不开一张清晰的鸟瞰图（😄）。
 
-### 3.2、项目演示
-- 项目仓库（GitHub）：https://github.com/laigeoffer/pmhub
-- 项目仓库（码云）：https://gitee.com/laigeoffer/pmhub （国内访问速度更快）
-- 项目演示地址：https://pmhub.laigeoffer.cn（微信搜索「苍何」，关注我们的公众号，回复 `pmhub` 获取账号和密码，帮我们增加一个粉丝，哈哈哈，开源不易，请满足一下我的虚荣心（😁）。）
-
-![首页展示](https://cdn.tobebetterjavaer.com/stutymore/20240407163006.png)
-![项目概览页](https://cdn.tobebetterjavaer.com/stutymore/202404071500496.png)
-![任务编辑页](https://cdn.tobebetterjavaer.com/stutymore/20240407163256.png)
-![PmHub表单设计](https://cdn.tobebetterjavaer.com/stutymore/1719456780250-d60beb66-7cd3-4dc5-95c1-893d364ab56a.png)
-![PmHub流程设计页面](https://cdn.tobebetterjavaer.com/stutymore/1719458145592-0d855810-b4ca-44c8-a8cc-04b1ac4baa2d.png)
-
-### 3.3、代码展示
+### 2.2、代码展示
 ![pmhub代码展示](https://cdn.tobebetterjavaer.com/stutymore/20240529152747.png)
 
-### 3.4、代码结构
+### 2.3、代码结构
 
 ```
 com.laigeoffer.pmhub     
@@ -121,9 +98,9 @@ com.laigeoffer.pmhub
 ├──pom.xml                                            // 公共依赖
 ```
 
-## 四、项目部署
+## 三、项目部署
 > 单体版本请参考：[单体版本部署手册](https://github.com/laigeoffer/pmhub/blob/master/docs/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%AF%E5%8A%A8%E6%95%99%E7%A8%8B.md)
-### 4.1、环境准备
+### 3.1、环境准备
 |    | 技术                  | 名称        | 版本         | 官网                                                                                                 |
 |----|---------------------|-----------|------------|----------------------------------------------------------------------------------------------------|
 | 1  | Spring Boot         | 基础框架      | 2.7.18     | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)                   |
@@ -140,42 +117,14 @@ com.laigeoffer.pmhub
 
 
 
-### 4.2、后端项目启动
+### 3.2、后端项目启动
 
 #### 第一步，下载项目源码
 
-①、使用 Git 命令
-
-网络比较通畅的小伙伴可以直接从 GitHub 上拉取，命令如下：
-
-```
-git clone git@github.com:laigeoffer/pmhub.git
-```
-
-国内的小伙伴也可以直接使用码云 Gitee 上的镜像仓库地址拉取：
-
-```
-git clone https://gitee.com/laigeoffer/pmhub.git
-```
-
-②、直接下载压缩包
-
-也可以直接下载 GitHub 上的压缩包，然后解压到本地。
-
-- GitHub 地址：[https://github.com/laigeoffer/pmhub](https://github.com/laigeoffer/pmhub)
-- 码云地址：[https://gitee.com/laigeoffer/pmhub](https://gitee.com/laigeoffer/pmhub)
-
-![下载项目源码压缩包](https://cdn.tobebetterjavaer.com/images/20240324/76023993f091417a800ec7da19989e88.png)
-
-③、直接通过 GitHub 桌面版
-
-我个人一直比较喜欢实用 GitHub 桌面版来管理仓库，图形化界面操作起来也比较舒服。
-
-![](https://cdn.tobebetterjavaer.com/images/20240324/27136b6558d84edb861461ca5452021d.png)
+[//]: # ()
+[//]: # (![]&#40;https://cdn.tobebetterjavaer.com/images/20240324/27136b6558d84edb861461ca5452021d.png&#41;)
 
 #### 第二步，使用 Intellij IDEA 导入项目
-
-这一步应该就不需要我多讲了，相信大家都能搞定。
 
 ![](https://cdn.tobebetterjavaer.com/stutymore/20240601234905.png)
 #### 第三步，导入数据库
@@ -322,21 +271,21 @@ pmhub-system 启动前需要修改 nacos 中的 pmhub-system-dev.yml 配置文�
 
 
 
-### 4.3、前端项目启动
+### 3.3、前端项目启动
 
 请参考 pmhub-ui 项目的 README.md 文档，[前端工程结构说明](pmhub-ui/README.md)
 
 > 注意：微服务版本直接启动 pmhub-ui 即可，如果是单体版本的前端需要到 pmhub-boot下的 pmhub-ui 启动。
 
-### 4.4、在线接口文档
+### 3.4、在线接口文档
 
 [https://laigeoffer.cn/pmhub/api-doc.html](https://laigeoffer.cn/pmhub/api-doc.html)
 
-### 4.5、服务器部署（Docker 方式）
+### 3.5、服务器部署（Docker 方式）
 
 请参考 [云容器部署系统](https://laigeoffer.cn/pmhub/quickstart/docker/)
 
-## 五、技术选型
+## 四、技术选型
 
 后端技术栈
 
@@ -370,121 +319,5 @@ pmhub-system 启动前需要修改 nacos 中的 pmhub-system-dev.yml 配置文�
 |   sensitive-word    | 敏感词                  | [https://github.com/houbb/sensitive-word](https://github.com/houbb/sensitive-word)                                         |
 |       chatgpt       | chatgpt              | [https://openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)                                                         |
 |        讯飞星火         | 讯飞星火大模型              | [https://www.xfyun.cn/doc/spark/Web.html](https://www.xfyun.cn/doc/spark/Web.html#_1-%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E) |
-
-## 六、PmHub 教程
-PmHub 高质量教程共 70+ 篇，从中整理出 10 篇，供大家免费学习。
-- [（🌟 新人必看）PmHub 系统架构&功能模块一览](https://laigeoffer.cn/pmhub/introduction/architecture-function.html)
-- [（🌟 新人必看）小白如何学习 PmHub](https://laigeoffer.cn/pmhub/introduction/beginner-learn.html)
-- [（🌟 新人必看）如何将 PmHub 写入简历](https://laigeoffer.cn/pmhub/write-to-resume.html)
-- [（🌟 新人必看）PmHub 产品原型](https://laigeoffer.cn/pmhub/productdesign/product-prototype.html)
-- [（🌟 新人必看）项目真实面经](https://laigeoffer.cn/pmhub/interview/global-filter-statistics-gateway.html)
-- [（🌟 新人必看）本地快速启动](https://laigeoffer.cn/pmhub/quickstart/backend.html)
-- [（🌟 新人必看）PmHub 微服务网关设计](https://laigeoffer.cn/pmhub/architecture/pmhub-gateway.html)
-- [（🌟 新人必看）PmHub 项目工程搭建手册](https://laigeoffer.cn/pmhub/quickstart/docker.html#%E6%9C%AC%E5%9C%B0%E5%87%86%E5%A4%87)
-- [（👍 强烈推荐）如何做好产品设计](https://laigeoffer.cn/pmhub/productdesign/everyone-is-producter.html)
-- [（👍 强烈推荐）项目真实面经](https://laigeoffer.cn/pmhub/interview/global-filter-statistics-gateway.html)
-
-
-
-## 七、环境搭建
-
-### 开发工具
-
-|        工具        | 说明           | 官网                                                                                                                       | 
-|:----------------:|--------------|--------------------------------------------------------------------------------------------------------------------------|
-|       IDEA       | java开发工具     | [https://www.jetbrains.com](https://www.jetbrains.com)                                                                   |
-|   visualstudio   | web开发工具      | [https://code.visualstudio.com/](https://code.visualstudio.com/)                                                         |
-|      Chrome      | 浏览器          | [https://www.google.com/intl/zh-CN/chrome](https://www.google.com/intl/zh-CN/chrome)                                     |
-|   ScreenToGif    | gif录屏        | [https://www.screentogif.com](https://www.screentogif.com)                                                               |
-|     SniPaste     | 截图           | [https://www.snipaste.com](https://www.snipaste.com)                                                                     |
-|     PicPick      | 图片处理工具       | [https://picpick.app](https://picpick.app)                                                                               |
-|     MarkText     | markdown编辑器  | [https://github.com/marktext/marktext](https://github.com/marktext/marktext)                                             |
-|       curl       | http终端请求     | [https://curl.se](https://curl.se)                                                                                       |
-|     Postman      | API接口调试      | [https://www.postman.com](https://www.postman.com)                                                                       |
-|     draw.io      | 流程图、架构图绘制    | [https://www.diagrams.net/](https://www.diagrams.net/)                                                                   |
-|      Axure       | 原型图设计工具      | [https://www.axure.com](https://www.axure.com)                                                                           |
-|     navicat      | 数据库连接工具      | [https://www.navicat.com](https://www.navicat.com)                                                                       |
-|     DBeaver      | 免费开源的数据库连接工具 | [https://dbeaver.io](https://dbeaver.io)                                                                                 |
-|      iTerm2      | mac终端        | [https://iterm2.com](https://iterm2.com)                                                                                 |
-| windows terminal | win终端        | [https://learn.microsoft.com/en-us/windows/terminal/install](https://learn.microsoft.com/en-us/windows/terminal/install) |
-|   SwitchHosts    | host管理       | [https://github.com/oldj/SwitchHosts/releases](https://github.com/oldj/SwitchHosts/releases)                             |
-
-
-### 开发环境
-
-|      工具       | 版本        | 下载                                                                                                                     |
-|:-------------:|:----------|------------------------------------------------------------------------------------------------------------------------|
-|      jdk      | 1.8+      | [https://www.oracle.com/java/technologies/downloads/#java8](https://www.oracle.com/java/technologies/downloads/#java8) |
-|     maven     | 3.4+      | [https://maven.apache.org/](https://maven.apache.org/)                                                                 |
-|     mysql     | 5.7+/8.0+ | [https://www.mysql.com/downloads/](https://www.mysql.com/downloads/)                                                   |
-|     redis     | 5.0+      | [https://redis.io/download/](https://redis.io/download/)                                                               |
-| elasticsearch | 8.0.0+    | [https://www.elastic.co/cn/downloads/elasticsearch](https://www.elastic.co/cn/downloads/elasticsearch)                 |
-|     nginx     | 1.10+     | [https://nginx.org/en/download.html](https://nginx.org/en/download.html)                                               |
-|   rocketmq    | 5.0.4+    | [https://www.rabbitmq.com/news.html](https://www.rabbitmq.com/news.html)                                               |
-|    ali-oss    | 3.15.1    | [https://help.aliyun.com/document_detail/31946.html](https://help.aliyun.com/document_detail/31946.html)               |
-|      git      | 2.34.1    | [http://github.com/](http://github.com/)                                                                               |
-|    docker     | 4.10.0+   | [https://docs.docker.com/desktop/](https://docs.docker.com/desktop/)                                                   |
-|    freessl    | https证书   | [https://freessl.cn/](https://freessl.cn/)                                                                             |
-
-### 搭建步骤
-
-#### 本地部署教程
-
-> [本地开发环境手把手教程](https://laigeoffer.cn/pmhub/quickstart/environment/)
-
-### 云服务器部署教程
-
-> [环境搭建 & 基于源码的部署教程](docs/安装环境.md)
-
-> [服务器docker启动教程](https://laigeoffer.cn/pmhub/quickstart/docker/)
-
-## 八、内置功能
-> 内置功能我们使用了若依的框架，为什么要用若依，一来我们觉得基础的后台功能没有必要再重复造轮子，我们需要节省时间花力气在项目核心业务上，二来我们希望站在巨人的肩膀上，若依是后台系统中很优秀的框架，我们基于其做的二次开发，相信也能再创辉煌！
-
-1.  用户管理：用户是系统操作者，该功能主要完成系统用户配置。
-2.  部门管理：配置系统组织机构（公司、部门、小组），树结构展现支持数据权限。
-3.  岗位管理：配置系统用户所属担任职务。
-4.  菜单管理：配置系统菜单，操作权限，按钮权限标识等。
-5.  角色管理：角色菜单权限分配、设置角色按机构进行数据范围权限划分。
-6.  字典管理：对系统中经常使用的一些较为固定的数据进行维护。
-7.  参数管理：对系统动态配置常用参数。
-8.  通知公告：系统通知公告信息发布维护。
-9.  操作日志：系统正常操作日志记录和查询；系统异常信息日志记录和查询。
-10. 登录日志：系统登录日志记录查询包含登录异常。
-11. 在线用户：当前系统中活跃用户状态监控。
-12. 定时任务：在线（添加、修改、删除)任务调度包含执行结果日志。
-13. 代码生成：前后端代码的生成（java、html、xml、sql）支持CRUD下载 。
-14. 系统接口：根据业务代码自动生成相关的api接口文档。
-15. 服务监控：监视当前系统CPU、内存、磁盘、堆栈等相关信息。
-16. 缓存监控：对系统的缓存信息查询，命令统计等。
-17. 在线构建器：拖动表单元素生成相应的HTML代码。
-18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
-
-## 九、友情链接
-
-- [paicoding](https://github.com/itwanger/paicoding?tab=readme-ov-file) ：⭐️一款好用又强大的开源社区，基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等主流技术栈
-- [toBeBetterjavaer](https://github.com/itwanger/toBeBetterJavaer) ：🚀一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-- [CodeCanvas](https://github.com/freestylefly/CodeCanvas) ：📚本代码仓库是作者苍何多年从事一线互联网Java开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。💪🏻
-
-## 十、鸣谢
-感谢所有参与开源贡献的小伙伴，PmHub 因你们而更强大！
-
-## 十一、star 趋势图
-
-[![Star History Chart](https://api.star-history.com/svg?repos=laigeoffer/pmhub&type=Date)](https://star-history.com/#laigeoffer/pmhub&Date)
-
-## 十二、公众号
-
-微信搜 **苍何** 或扫描下方二维码关注苍何的原创公众号，回复 **666** 即可免费领取 2000G 编程学习资源。
-
-![苍何微信公众号](https://cdn.tobebetterjavaer.com/stutymore/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
-
-## 十三、许可证
-
-[MIT License (MIT)](https://opensource.org/licenses/MIT)<hr/>
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-Copyright (c) 2023-2024 PmHub（苍何、沉默王二）
 
 
